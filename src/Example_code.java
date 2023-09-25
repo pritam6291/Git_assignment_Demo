@@ -5,5 +5,8 @@ public class Example_code {
 		System.out.println("Working on assignment"+"adding new code changes");
 
 	}
+	public void test() {
+		
+	}
 
 }
